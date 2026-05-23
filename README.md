@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kelly+Clovis+%F0%9F%91%8B;Software+%26+Web+Developer;React+%C2%B7+Angular+%C2%B7+Next.js+%C2%B7+Java+Spring+%C2%B7+%C2%B7+Three.js;UI+lover+%2B+Immersive+3D+experiences+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kelly+Clovis+%F0%9F%91%8B;Software+%26+Web+Developer;React+%C2%B7+Next.js+%C2%B7+Java+%C2%B7+Three.js;UI+lover+%2B+Immersive+3D+experiences+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -106,10 +106,10 @@ Self-hosted, works on iPhone, Android & desktop. Built for two.
 ## 🛠️ Tech Stack
 
 **Frontend & UI**
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
