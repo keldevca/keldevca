@@ -23,7 +23,7 @@ const kelly = {
   location  : "Montreal, Quebec 🇨🇦",
   portfolio : "https://kellydev.io  ← Awwwards nominated 🏆",
   available : "June 2026 — open to hybrid positions",
-  education : "DEC in Computer Science · Cégep de Rosemont (June 2026)",
+  education : "DEC in Computer Science",
 
   strengths : [
     "Polished UI & immersive web experiences",
